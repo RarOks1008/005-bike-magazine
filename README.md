@@ -8,19 +8,19 @@
 ### *Home page*
 ![Home Image](git-image/image1.png)
 
-Bootstrap design with my change using HTML and CSS.
+Home page with JS animation and text inserting using JSON and AJAX.
 
-### *Accessories page*
-![Accessories Image](git-image/image2.png)
+### *About page*
+![About Image](git-image/image2.png)
 
-Bootstrap design with my change using HTML and CSS.
+About page with user settings saved in local storage.
 
-### *Beard and Hair page*
-![Beard and Hair Image](git-image/image3.png)
+### *Author page*
+![Author Image](git-image/image3.png)
 
-Bootstrap design with my change using HTML and CSS.
+Insering CV data via JSON and AJAX.
 
-### *Clothes page*
-![Clothes Image](git-image/image4.png)
+### *Bikes page*
+![Bikes Image](git-image/image4.png)
 
-Bootstrap design with my change using HTML and CSS.
+Bike page with infinite scroll, working sort and filter.
