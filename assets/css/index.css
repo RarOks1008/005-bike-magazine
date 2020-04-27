@@ -1,0 +1,45 @@
+.text_data {
+    background-color: rgba(0,0,0,0.3);
+    border-radius: 3px;
+    margin-top: 30px;
+    width: 80%;
+    margin-left: 10%;
+    padding: 10px;
+}
+.text_data h3 {
+    text-align: center;
+    text-shadow: 2px 2px #000000;
+    color: #ffffff;
+    font-size: 26px;
+    margin-bottom: 15px;
+}
+.text_data p {
+    text-align: center;
+    color: #ffffff;
+    font-size: 22px;
+    font-style: italic;
+    margin-top: 20px;
+}
+.biker {
+    display: flex;
+    align-items: center;
+}
+.biker #bike_rider {
+    width: 80px;
+    height: 60px;
+    margin-top: 25px;
+    margin-left: -100px;
+    border-radius: 5px;
+}
+.biker #bike_text {
+    display: none;
+    margin-top: 25px;
+    margin-left: 20px;
+    background-color: rgba(255, 255, 255, 0.5);
+    padding: 7px;
+    font-size: 18px;
+    border-radius: 5px 5px 5px 0;
+}
+.biker #bike_text.visible {
+    display: inline;
+}

@@ -1,0 +1,116 @@
+{
+    "name": "Nikola Nedejkovic",
+    "index": "2/17",
+    "image": "assets/images/author.jpg",
+    "alt": "Author image",
+    "cv": [
+        {
+            "column1": "Date and place of birth",
+            "column2": "06.05.1996, Krusevac"
+        },
+        {
+            "column1": "Experience 2017 -",
+            "column2": "Front-End Developer at Summa Labs D.O.O"
+        },
+        {
+            "column1": "Experience 17. – 18. November 2018.",
+            "column2": "Lecturer at the one hundreadth RGB workshop"
+        },
+        {
+            "column1": "Experience 2013 -",
+            "column2": "Astronomical society of \"Eureka\" Krusevac"
+        },
+        {
+            "column1": "Experience 2013 - 2014",
+            "column2": "Member of the student team on the project GAM Asteroid Search Campaigntim"
+        },
+        {
+            "column1": "Education 2017 -",
+            "column2": "College of professional studies for information and communication technologies in Belgrade"
+        },
+        {
+            "column1": "Education 2011 - 2015",
+            "column2": "High School Krusevac"
+        },
+        {
+            "column1": "Courses and certificates",
+            "column2": "Certificate for attendance on the conference Umrezavanje: New Age"
+        },
+        {
+            "column1": "Courses and certificates",
+            "column2": "Certificate for attendance on the conference Umrezavanje: Knowledge For The Future"
+        },
+        {
+            "column1": "Courses and certificates",
+            "column2": "ALISON certificate for Microsoft Excel 2010"
+        },
+        {
+            "column1": "Courses and certificates",
+            "column2": "ALISON certificate for Microsoft PowerPoint 2010"
+        },
+        {
+            "column1": "Courses and certificates",
+            "column2": "Certificate for German language А1"
+        },
+        {
+            "column1": "Courses and certificates",
+            "column2": "Certificate for presence on the conference KIMUN"
+        },
+        {
+            "column1": "Courses and certificates",
+            "column2": "Award Outstanding Delegate on the conference KIMUN"
+        },
+        {
+            "column1": "Courses and certificates",
+            "column2": "Laid Google online course \"Basics of online marketing\""
+        },
+        {
+            "column1": "Courses and certificates",
+            "column2": "Certificate for participation in  InOMN 2013"
+        },
+        {
+            "column1": "Courses and certificates",
+            "column2": "FCE diploma for English language with grade A (demonstrated knowledge of  C1)"
+        },
+        {
+            "column1": "Courses and certificates",
+            "column2": "Course Certificate: \"Take your Xamarin.Android Skills to the next level now!\""
+        },
+        {
+            "column1": "Courses and certificates",
+            "column2": "Course Certificate: \"HTML Coding for Beginners Course: Learn HTML in 1 Hour\""
+        },
+        {
+            "column1": "Courses and certificates",
+            "column2": "Certificate of attendance on the presentation: \"Study abroad with Cambridge English: Advanced (CAE)\""
+        },
+        {
+            "column1": "Language knowledge",
+            "column2": "Serbian language (mother tongue), English language (higher level), Italian language (intermediate level), German language (initial level)"
+        },
+        {
+            "column1": "Programming languages",
+            "column2": "Basic, Pascal, C, C++, C#, JavaScript"
+        },
+        {
+            "column1": "Front end knowledge in",
+            "column2": "HTML, CSS, SCSS, SASS, LESS, XML, Bootstrap, AngularJS, AngularJS Materials, NodeJS, JQuery"
+        },
+        {
+            "column1": "Environments",
+            "column2": "Electron"
+        },
+        {
+            "column1": "VCS",
+            "column2": "Git"
+        },
+        {
+            "column1": "Project management and tracking",
+            "column2": "Scrum (JIRA)"
+        },
+        {
+            "column1": "Other",
+            "column2": "Member of Mensa International since 2013."
+        }
+    ]
+}

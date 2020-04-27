@@ -1,0 +1,407 @@
+[
+    {
+        "image": "assets/images/bikes/bike_1.jpg",
+        "alt": "Ag2r's Factor 2",
+        "title": "Factor 2",
+        "description": "This has a more traditional look and an ultra-low frame weight of 740g. Combined with Mavic’s Cosmic Carbon Ultimate wheels, we suspect Ag2r mechanics will have to add weight to the bike to ensure it stays over the UCI’s 6.8kg weight limit.",
+        "driving_teams": ["Ag2r"],
+        "price": 7750,
+        "year": 2018
+    },
+    {
+        "image": "assets/images/bikes/bike_2.jpg",
+        "alt": "Team Sky's Pinarello F10",
+        "title": "Pinarello F10",
+        "description": "Pinarello’s latest and allegedly greatest race bike was first used at the 2017 Tour Down Under, between the legs of those marginal gaining boys in black, Team Sky. Pinarello considers the F10 to be an evolution rather than a revolution, so on the surface it doesn’t look too different. But that hasn’t stopped it hitting all the usual marketing buzz words by way of increased stiffness, reduced weight and lower aerodynamic drag. Marketing claims aside, it’s a fast looking bike we’re sure to be seeing a lot more of in 2017.",
+        "driving_teams": ["Team Sky"],
+        "price": 12000,
+        "year": 2017
+    },
+    {
+        "image": "assets/images/bikes/bike_3.jpg",
+        "alt": "Team UAE Abu Dhabi's Colnago C60",
+        "title": "Colnago C60",
+        "description": "A new name in racing, the snappily monikered UAE Abu Dhabi Team will be riding Colnago bikes for 2017. The C60 gets its unique look from carbon tubes, which are then bonded into lugs, apparently making for a stiffer frame. Everything else on the bike is fittingly Italian, with Campagnolo groupset and wheels, Deda finishing kit, Vittoria tyres and a Selle Italia saddle, In fact the only part that doesn’t have Italian heritage seems to be the Look Keo Blade pedals that don’t detract in any way from this tasty looking bike.",
+        "driving_teams": ["Team UAE Abu Dhabi"],
+        "price": 4100,
+        "year": 2017
+    },
+    {
+        "image": "assets/images/bikes/bike_4.jpg",
+        "alt": "Tom Boonen's Specialized Venge ViAS Disc",
+        "title": "Specialized Venge ViAS Disc",
+        "description": "Pros have been racing the latest Specialized Venge for a while, but what they haven’t been racing, until now, is a Venge ViAS with discs. It seems Specialized wants to see more riders on disc bikes, so have provided Tom Boonen, Marcel Kittel and Peter Sagan with just that. Boonen has already managed to clock a victory aboard the Venge ViAS Disc and with no ‘spinning knife’ injuries to report. This custom model was shown, although not raced, at the Tour Down Under by Peter Sagan. We suspect this could change for the Classics and we might see Sagan racing discs on the cobbles.",
+        "driving_teams": ["Tom Boonen", "Marcel Kittel", "Peter Sagan"],
+        "price": 13250,
+        "year": 2019
+    },
+    {
+        "image": "assets/images/bikes/bike_5.jpg",
+        "alt": "Team Canyon SRAM's Canyon Ultimate CF SLX",
+        "title": "Canyon Ultimate CF SLX",
+        "description": "Is this the best looking bike in the pro peloton? We think so. World Tour team Canyon SRAM will be racing — and we suspect winning — aboard Canyon’s flagship Ultimate and Aeroad models in 2017. Team mechanics will be delighted to see wireless SRAM eTap fitted as standard, making servicing much quicker, easier and less frequent. Combined with Zipp wheels, Continental tyres and Canyon’s slippery one-piece bar and stem, the Canyon SRAM riders have some of the best kit at their disposal for a tough season of racing.",
+        "driving_teams": ["Team Canyon SRAM"],
+        "price": 5926,
+        "year": 2016
+    },
+    {
+        "image": "assets/images/bikes/bike_6.jpg",
+        "alt": "Trek's Emonda",
+        "title": "Emonda",
+        "description": "Trek released a new Emonda in 2017, and surprise, surprise it’s got a touch lighter and stiffer. Although the lack of weight makes absolutely no difference to the pros because all the bikes have to be within the UCI 6.8kg weight limit.",
+        "driving_teams": ["Trek"],
+        "price": 11300,
+        "year": 2014
+    },
+    {
+        "image": "assets/images/bikes/bike_7.jpg",
+        "alt": "Canyon's Aeroad CF SLX",
+        "title": "Aeroad CF SLX",
+        "description": "Much like death and taxes, if there’s one thing that you can guarantee in life it’s that Movistar will be winning races in 2018, and even though Alejandro Valverde's coming back from a nasty injury, we suspect he will be contributing to that tally. Who knows how that guy keeps getting better with age?",
+        "driving_teams": ["Movistar"],
+        "price": 4600,
+        "year": 2014
+    },
+    {
+        "image": "assets/images/bikes/bike_8.jpg",
+        "alt": "Pinarello's Dogma",
+        "title": "Dogma",
+        "description": "Team Sky’s Pinarello Dogma may seem like an obvious choice, but it’s gone through some subtle changes for 2018. First, the colour. Adding bits of white to match Sky’s new white kit will hopefully go some way to making a squad currently clouded in controversy seem, dare we say it, a bit more friendly.",
+        "driving_teams": ["Team Sky"],
+        "price": 4335,
+        "year": 2009
+    },
+    {
+        "image": "assets/images/bikes/bike_9.jpg",
+        "alt": "Specialized's Tarmac",
+        "title": "Tarmac",
+        "description": "No pro bike list would be complete without including the new Specialized Tarmac, and there’s no doubt you’ll be seeing a lot more of this particular model, which will be ridden by Peter Sagan in 2018. Just like every bike on our list, it looks fast and will weigh around 6.8kg. Where it differs is with the fancy custom paintjob and an all-new Specialized dual-sided power meter.",
+        "driving_teams": ["Peter Sagan"],
+        "price": 8500,
+        "year": 2018
+    },
+    {
+        "image": "assets/images/bikes/bike_10.jpg",
+        "alt": "Colnago's V2-R",
+        "title": "V2-R",
+        "description": "UAE team Emirates are going almost — but not quite — full Italian for 2018. The frame is Italian, specifically Colnago’s new V2-R, and the wheels, groupset, tyres, saddle and finishing kit are also Italian, hello Campagnolo, Vittoria, Prologo and Deda.",
+        "driving_teams": ["UAE team Emirates"],
+        "price": 12000,
+        "year": 2017
+    },
+    {
+        "image": "assets/images/bikes/bike_11.jpg",
+        "alt": "Cannondale SystemSix",
+        "title": "SystemSix",
+        "description": "Cannondale claims that its new SystemSix, available only with disc brakes, is “the world’s fastest UCI-legal road bike”, largely thanks to an aerodynamic performance that has been honed in CFD (computational fluid dynamics) and the wind tunnel.",
+        "driving_teams": [],
+        "price": 3499,
+        "year": 2018
+    },
+    {
+        "image": "assets/images/bikes/bike_12.jpg",
+        "alt": "Specialized Venge",
+        "title": "Venge",
+        "description": "Specialized has radically redesigned its Venge aero road bike for 2019, giving it an all-new frame and fork that's compatible only with disc brakes and electronic gears – meaning that there are no complete bikes available for less than £6,250. Gulp!",
+        "driving_teams": [],
+        "price": 9750,
+        "year": 2018
+    },
+    {
+        "image": "assets/images/bikes/bike_13.jpg",
+        "alt": "Look 795 Blade RS",
+        "title": "Look 795 Blade RS",
+        "description": "The new Look 795 Blade RS aero road bike features truncated aero section tubes, an invisible seatpost clamp and an integrated aero cockpit. The seatstays are long and curved and there's no brake bridge between them. The design is intended to allow some vertical movement for increased comfort and traction. The bike is available in both rim brake and disc brake versions.",
+        "driving_teams": [],
+        "price": 10000,
+        "year": 2018
+    },
+    {
+        "image": "assets/images/bikes/bike_14.jpg",
+        "alt": "Merida Scultura 4000 Disc",
+        "title": "Scultura 4000 Disc",
+        "description": "Merida is one of the biggest manufacturers of carbon fibre frames, and that experience and expertise show in this Scultura 4000 Disc. As well as a light frame, you get a full Shimano 105 groupset with disc brakes. It has Merida's CF2 geometry, which is less racy than the CF4 layout of Merida's pure race bikes, and there's room in the frame for 28mm tyres.",
+        "driving_teams": [],
+        "price": 2150,
+        "year": 2017
+    },
+    {
+        "image": "assets/images/bikes/bike_15.jpg",
+        "alt": "Giant TCR Advanced 3",
+        "title": "TCR Advanced 3",
+        "description": "Giant offer their amazing TCR in a Tiagra 4700 version. The groupset is Tiagra throughout with no cutting corners. Giant supply all the contact points, wheels, tyres, stem and seatpost to bring a bike that really impresses both on the spec sheet and out on the road.",
+        "driving_teams": [],
+        "price": 1299,
+        "year": 2012
+    },
+    {
+        "image": "assets/images/bikes/bike_16.jpg",
+        "alt": "Cube Attain SL",
+        "title": "Attain SL",
+        "description": "With a Shimano 105 groupset on its 6061 aluminium frame, this is the lightest of Cube's Attain line of go-faster sportive bikes. There's clearance for 28mm tyres (28mm Conti Ultra Sport 2s are fitted) and a not-too-stretched riding position so it's quick, but you won't need pro-level flexibility to get comfortable on it.",
+        "driving_teams": [],
+        "price": 999,
+        "year": 2019
+    },
+    {
+        "image": "assets/images/bikes/bike_17.jpeg",
+        "alt": "Trek Domane SL 6 Disc",
+        "title": "Domane SL 6 Disc",
+        "description": "If comfort interests you most in a carbon road bike, then the latest incarnation of the Domane might be the bike for you. It features a unique system that allows the seatpost to move independently of the frame, which works to smooth out bumps and vibrations generated when riding over a rough road. Or cobbles. The SL also features the same technology at the front and it, along with a new rubber infused carbon handlebar, helps to provide an incredibly smooth and composed ride over any sort of road surface. There are also hidden mudguard mounts for the winter. It's truly a bike for all weathers.",
+        "driving_teams": [],
+        "price": 3100,
+        "year": 2019
+    },
+    {
+        "image": "assets/images/bikes/bike_18.jpg",
+        "alt": "Giant Contend SL 1 Disc",
+        "title": "Contend SL 1 Disc",
+        "description": "Contend is Giant's name for the aluminium-framed equivalents of the Defy carbon-fibre bikes. The Contend range has a disc option on several models and the Contend SL 1 Disc is currently a bargain in end-of-season sales as retailers clear the decks for 2019 models. It has Giant's ALUXX SL aluminium frame in an endurance geometry, Shimano 105 transmission, Giant PR2 disc wheels and Giant Conduct hydraulic disc brakes.",
+        "driving_teams": [],
+        "price": 959,
+        "year": 2019
+    },
+    {
+        "image": "assets/images/bikes/bike_19.jpg",
+        "alt": "Giant Defy",
+        "title": "Defy",
+        "description": "The latest version of Giant’s hugely popular endurance road bike has wider tyre clearance than previously (up to 32mm), tubeless tyres and D-Fuse handlebars that are designed to provide extra compliance. The Defy Advanced Pro 0 also comes with Giant’s new Power Pro dual-sided power meter, which looks like a great deal for £4,499.",
+        "driving_teams": [],
+        "price": 4499,
+        "year": 2019
+    },
+    {
+        "image": "assets/images/bikes/bike_20.jpg",
+        "alt": "Boardman SLR 8.9 Carbon",
+        "title": "Boardman SLR 8.9 Carbon",
+        "description": "The new Boardman SLR 8.9 Carbon mightily impressed road.cc technical editor Mat Brett, a man who regularly gets to ride bikes that cost the thick end of ten grand, and who's therefore not easily impressed. The highlight is an excellent, comfortable but sharp-handling frame that will stand component upgrades from the stock Tiagra parts as things wear out.",
+        "driving_teams": [],
+        "price": 1000,
+        "year": 2017
+    },
+    {
+        "image": "assets/images/bikes/bike_21.jpg",
+        "alt": "3T Strada Due",
+        "title": "Strada Due",
+        "description": "The Strada aero road bike was initially designed with a single chainring transmission in mind but 3T has now added the Strada Due to the lineup, giving you the option of fitting an electronic groupset with a double chainring. The seat tube has also been beefed up a little to support the use of the front mech, but that change aside it's the same as the original Strada.",
+        "driving_teams": [],
+        "price": 3699,
+        "year": 2018
+    },
+    {
+        "image": "assets/images/bikes/bike_22.jpg",
+        "alt": "Trek Madone SLR 6 P1",
+        "title": "Madone SLR 6 P1",
+        "description": "The rim brake bikes are slightly lighter than the newly introduced disc brake models, but Trek says there's no aerodynamic penalty in going for discs. The Madone SLR is a high-end option, even the most affordable rim brake option, the SLR 6 P1, is £5,500.",
+        "driving_teams": [],
+        "price": 5500,
+        "year": 2019
+    },
+    {
+        "image": "assets/images/bikes/bike_23.jpg",
+        "alt": "Ridley Noah Fast",
+        "title": "Noah Fast",
+        "description": "Ridley has redesigned its top-level aero road bike with channels towards the front edge of the tubing that are designed to act as vortex generators to reduce drag. The fork integrates with the frame, the seatpost clamp is hidden from the airflow and an integrated handlebar/stem is fitted up front. The cabling is internally routed through the bar/stem and Ridley claims a weight saving of about 250g over the previous Noah. Both rim brake and disc brake versions are available.",
+        "driving_teams": [],
+        "price": 8189,
+        "year": 2019
+    },
+    {
+        "image": "assets/images/bikes/bike_24.jpg",
+        "alt": "Calibre Nibiru 1.0",
+        "title": "Nibiru 1.0",
+        "description": "Far and away the cheapest carbon fibre bike anywhere, the Nibiru 1.0 is only available from camping and hiking chain Go Outdoors, It comes with a Shimano Sora 9-speed groupset, with a 50/34 chainset and an 11-32 cassette, so it has a wide gear range for the hills. It's hung with a good selection of brand-name parts including Mavic wheel rims and Ritchey bar, stem and seatpost. The only catch is that it's only available in limited sizes: 53, 56, 58 and 59cm.",
+        "driving_teams": [],
+        "price": 599,
+        "year": 2015
+    },
+    {
+        "image": "assets/images/bikes/bike_25.jpg",
+        "alt": "Ribble R872",
+        "title": "R872",
+        "description": "This is Ribble’s cheapest carbon fibre model, with a range of options starting at £999 for a Shimano Tiagra group on a carbon fibre frameset designed for taming sportives. The benefit of the Bike Builder option is that you can spec exactly what you want; the Shimano 105-equipped version above is £1,199.",
+        "driving_teams": [],
+        "price": 999,
+        "year": 2017
+    },
+    {
+        "image": "assets/images/bikes/bike_26.jpg",
+        "alt": "Whyte Dorset",
+        "title": "Dorset",
+        "description": "This is truly a performance road bike with disc brakes rather than a re-engineered hybrid or cyclocross bike. If you want a bike for getting from A to B quickly all year round, and that can cope with whatever the British roads and weather can throw at it this could be for you. We were very impressed when we reviewed the 2014 version. At its heart is a well designed, well put together aluminium frame with lots of nicely detailed touches. You can easily fit mudguards (always a plus) and the ride and handling is right up there with the best of the new breed of aluminium road bikes. There are 28mm Maxxis Rouleur tyres and the Shimano Sora groupset with TRP Hy/Rd mechanical disc brakes.",
+        "driving_teams": [],
+        "price": 999,
+        "year": 2014
+    },
+    {
+        "image": "assets/images/bikes/bike_27.jpg",
+        "alt": "Canyon Endurace CF 7.0",
+        "title": "Endurace CF 7.0",
+        "description": "The Endurace is Canyon’s bike for riding long distances in comfort, with a more relaxed geometry than the racier Ultimate, and wider tyres also contributing to the smoother ride this model aims to offer. You get a full Shimano 105 R7000 11-speed groupset with this bike, no shortcuts, even the brake calipers and crankset are 105. Quality abounds with Mavic Aksium wheels shod with Continental Grand Prix SL tyres. Canyon claims a bike weight of 8.0kg which, if accurate, is a very respectable weight for a bike of this price.",
+        "driving_teams": [],
+        "price": 1249,
+        "year": 2018
+    },
+    {
+        "image": "assets/images/bikes/bike_28.jpg",
+        "alt": "Triban RC 500 & RC 520",
+        "title": "RC 500 & RC 520",
+        "description": "A cheap entry on a list of the hottest bikes? Why not? Decathlon has added two new disc-braked models in the popular Triban range and they look like exceptional value for money. The £530 Triban RC 500 and £730 Triban RC 520 share the new Evo 18 6061 aluminium frame, with a tall head tube, steeply sloping top tube, fittings for racks and mudguards and clearance for tyres up to 40mm wide. These are deeply practical bikes, but they’re not unexciting. It might take a little while to wind them up to speed but once there they boom along very nicely!",
+        "driving_teams": [],
+        "price": 729,
+        "year": 2018
+    },
+    {
+        "image": "assets/images/bikes/bike_29.jpg",
+        "alt": "Cannondale SuperSix Evo Ultegra Di2",
+        "title": "SuperSix Evo Ultegra Di2",
+        "description": "'Next year' models are in the shops already and one of the picks of 2018's range is the latest incarnation of Cannondale's SuperSix Evo Ultegra Di2, which packs quite a lot of bike for three grand. The SuperSix Evo frame features Cannondale's BallisTech carbon fibre in a traditional frame geometry. The Ultegra Di2 a very nice balance of perfect shifting and more attractive price point. The semi-compact 52/36 chainset is paired with an 11/28 cassette to give aggressive climbing gearing. The Mavic Askium WTS wheels are a little out of their league on this setup, but you can always treat yourself to some top-flight wheels later and keep them for training.",
+        "driving_teams": [],
+        "price": 3200,
+        "year": 2017
+    },
+    {
+        "image": "assets/images/bikes/bike_30.jpg",
+        "alt": "Genesis Zero Disc",
+        "title": "Zero Disc",
+        "description": "Genesis has added disc brake versions of its Zero carbon fibre race bike for 2019, with 12mm thru-axles and flat mount disc brakes. The aggressive geometry is unaltered.",
+        "driving_teams": [],
+        "price": 2700,
+        "year": 2019
+    },
+    {
+        "image": "assets/images/bikes/bike_31.jpg",
+        "alt": "Cipollini NK1K",
+        "title": "Zero Disc",
+        "description": "A monocoque frame made in Italy. For many, that fact alone warrants the price tag. If you're not convinced by that alone, the NK1K is made for sprinting. The chap with his name on it was rather good at going fast after all. Build options are up to you and depend on the depth of your pockets.",
+        "driving_teams": [],
+        "price": 4699,
+        "year": 2015
+    },
+    {
+        "image": "assets/images/bikes/bike_32.jpg",
+        "alt": "Specialized Tarmac Disc Pro",
+        "title": "Tarmac Disc Pro",
+        "description": "If you're looking for proven race pedigree, then Specialized's Tarmac series can probably win you a game of Top Trumps. In its various iterations, this frame has won Grand Tours, Classics and rainbow jerseys. The 2019 Tarmac Disc Pro version gets the latest 8000 Shimano offering in electronic form, and like most of the 2019 Tarmac range has disc brakes, though there are still a couple of rim-braked models for traditionalists. The Roval CL 50 wheels are shod with Specialized Turbo S-Works tyres and a Specialized Toupe saddle sits atop an S-Works carbon seatpost.",
+        "driving_teams": [],
+        "price": 6000,
+        "year": 2019
+    },
+    {
+        "image": "assets/images/bikes/bike_33.jpg",
+        "alt": "Bianchi Specialissima",
+        "title": "Specialissima",
+        "description": "This Italian brand is one of the most desirable, with its history and iconic celeste paint, and this new Specialissima is its newest creation. It’s a bike designed unashamedly to be as light as possible, but there’s a concession to comfort, without compromising frame stiffness. The carbon layup incorporates the same vibration damping CounterVail technology first seen on the Infinito CV endurance bike a couple of years ago. The Campagnolo Super Record groupset and Bora Ultra wheels produce a complete bike weight that tickles the UCI minimum weight limit. So light that it’s illegal in any UCI race.",
+        "driving_teams": [],
+        "price": 5750,
+        "year": 2016
+    },
+    {
+        "image": "assets/images/bikes/bike_34.jpg",
+        "alt": "Scott Addict RC Premium Disc",
+        "title": "Addict RC Premium Disc",
+        "description": "Scott offers two versions of its Addict road bike, dividing it into Addict endurance bikes and Addict RC race machines; this is Scott's top of the line race bike. As well as one of the lightest disc-compatible frames around it has Shimano Dura-Ace Di2 electronic shifting, DT Swiss PRC 1100 Dicut db carbon clincher wheels, Syncros one-piece carbon bar and stem, and Syncros carbon seatpost. Scott claims a weight of 6.85kg, very impressive for a disc-braked bike.",
+        "driving_teams": [],
+        "price": 8999,
+        "year": 2019
+    },
+    {
+        "image": "assets/images/bikes/bike_35.jpg",
+        "alt": "BMC Timemachine 01 Road One",
+        "title": "Timemachine 01 Road One",
+        "description": "Swiss manufacturer BMC has pulled a blinder with its top model for 2019, taking the fundamentals of its time trial bikes and using them to build a disk-braked aero road bike that looks like it's powering away from the bunch even when it's standing still. The brain for its Shimano Dura-Ace Di2 electronic shifting is incorporated into the frame and its disc brakes and DT Swiss ARC 1100 carbon fibre wheels make for a thoroughly up-to-date race bike. It's dripping with clever details: BMC's own super-light through axles, the sleek Integrated Cockpit System bar and stem, brake hoses and gear wires routed almost-invisibly through the frame, super-tidy Direct Frontal Flat Mount brake mounts.",
+        "driving_teams": [],
+        "price": 10000,
+        "year": 2018
+    },
+    {
+        "image": "assets/images/bikes/bike_36.jpg",
+        "alt": "Colnago C64",
+        "title": "C64",
+        "description": "Unlike the majority of carbon frames in this guide that are made using the common moulding process, the C64 is constructed by bonding the tubes together using oversized lugs. It’s the same approach the Italian company has been using on its flagship carbon frames since the C40 some 20 years ago. It gives the frame a more traditional appearance perhaps than the smoother frames, but there’s no doubting the performance and quality of the ride it produces.",
+        "driving_teams": [],
+        "price": 10299,
+        "year": 2018
+    },
+    {
+        "image": "assets/images/bikes/bike_37.jpg",
+        "alt": "Specialized Dolce Elite",
+        "title": "Dolce Elite",
+        "description": "The Dolce has an aluminium frame and FACT carbon fork with Zertz inserts in the fork, intended to provide more comfort. You get a Body Geometry Women's Myth Sport saddle and Specialized Roubaix gel bar tape to add further comfort. The parts list includes a 11-speed Shimano 105 R7000 drivetrain with a wide range 11-32 cassette, Praxis Alba 48/32 chainset, and Specialized Espoir Sport 25mm tyres.",
+        "driving_teams": [],
+        "price": 1050,
+        "year": 2012
+    },
+    {
+        "image": "assets/images/bikes/bike_38.jpg",
+        "alt": "Planet X Pro Carbon Evo",
+        "title": "Planet X Pro Carbon Evo",
+        "description": "The Planet X Pro Carbon has always been a popular entry-level carbon fibre bike, but it was looking a bit dated. This new version corrects that with modern lines, a new lay-up, and tapered steerer, among other changes, and it's currently available with Shimano's 105 R7000 groupset for the frankly amazing price of a thousand quid.",
+        "driving_teams": [],
+        "price": 1000,
+        "year": 2018
+    },
+    {
+        "image": "assets/images/bikes/bike_39.jpg",
+        "alt": "Raleigh Mustang Sport",
+        "title": "Mustang Sport",
+        "description": "We really liked the Raleigh Mustang Elite when we tested it; this is the less-spendy version of the same idea. It does everything a regular road bike does, but it does it with the added comfort of the big tyres. It's part of Raleigh's three-bike range of gravel/adventure bikes and a great example of the booming category. Its 6061 double butted aluminium frame is designed for both on and off road riding so if you're getting tempted by your local dirt roads and trails, or a canal towpath commute, it'll take it in its stride.",
+        "driving_teams": [],
+        "price": 800,
+        "year": 2017
+    },
+    {
+        "image": "assets/images/bikes/bike_40.jpg",
+        "alt": "Cannondale Synapse Alloy Tiagra Disc",
+        "title": "Synapse Alloy Tiagra Disc",
+        "description": "We think the colour scheme of this disc-braked endurance bike is going to be a bit Marmite; you'll either think it's handsome and understated or find it boring. Under the paint, the Synapse is the US company's endurance bike, designed primarily to be comfortable, so making it ideal for sportives, riding to work and club runs.",
+        "driving_teams": [],
+        "price": 1000,
+        "year": 2019
+    },
+    {
+        "image": "assets/images/bikes/bike_41.jpg",
+        "alt": "Pinnacle Arkose 2",
+        "title": "Arkose 2",
+        "description": "Evans Cycles bills the Arkose 2 as an adventure bike, and acknowledges that designation as indicating 'a true all-rounder', which is definitely what the Arkose bikes have become since starting out as modest soft cyclocross bikes a few years ago. The Arkose 2 has room for 45mm tyres, or will happily take 28mm rubber for zipping along on the road, and has Shimano Tiagra components including hydraulic disc brakes, a rare feature on a sub-£1,000 bike.",
+        "driving_teams": [],
+        "price": 900,
+        "year": 2018
+    },
+    {
+        "image": "assets/images/bikes/bike_42.jpg",
+        "alt": "Specialized Diverge E5 Elite",
+        "title": "Diverge E5 Elite",
+        "description": "This year's thousand quid Diverge gets a Tiagra groupset instead of the previous Sora, but loses the bump-absorbing Future Shock fork for what's arguably a more balanced spec given the quality of the lightweight E5 aluminium frame. There's clearance for 42mm tyres and the components are all reliable and the details sensible, with a 32/34 low gear from the Praxis Alba chainset and wide-range cassette, and flat-mount disc brakes for easy upgrade to Shimano hydraulics at a later date.",
+        "driving_teams": [],
+        "price": 999,
+        "year": 2019
+    },
+    {
+        "image": "assets/images/bikes/bike_43.jpg",
+        "alt": "Canyon Endurace AL 7",
+        "title": "Endurace AL 7",
+        "description": "Canyon's Endurace follows the design of the carbon Endurace first introduced in 2014, but its aluminium frame is longer in the wheelbase and taller in the head tube, to create a more comfortable position.",
+        "driving_teams": [],
+        "price": 999,
+        "year": 2018
+    },
+    {
+        "image": "assets/images/bikes/bike_44.jpg",
+        "alt": "Rose Pro SL 105",
+        "title": "Pro SL 105",
+        "description": "By not selling bikes in shops in the traditional way, this German online retailer can pass on some pretty good savings to the customer if you’re prepared to shop online. This attractive Pro SL 105 features a triple butted 7005 aluminium frame and carbon fibre fork with a Shimano 105 11-speed groupset, making it better appointed than many similarly priced bikes in this roundup. A Shimano 105 compact chainset provides a usable low range spread of gears, and the Mavic Aksium wheels and tyres are fast and responsive.",
+        "driving_teams": [],
+        "price": 997,
+        "year": 2018
+    },
+    {
+        "image": "assets/images/bikes/bike_45.jpg",
+        "alt": "Rose Pro SL 105 Lady",
+        "title": "Pro SL 105 Lady",
+        "description": "The Rose Pro SL 200 Lady is the women's version of the Pro SL. Again, although it's a women's specific bike it may well suit a lot of men. It comes in four sizes compared to the Pro SL 2000's eight, and there are some differences in the finishing kit — it has narrower handlebars, and a women's specific saddle.",
+        "driving_teams": [],
+        "price": 897,
+        "year": 2018
+    }
+]

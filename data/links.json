@@ -1,0 +1,18 @@
+[
+    {
+        "text": "Home",
+        "link": "index.html"
+    },
+    {
+        "text": "About us",
+        "link": "about.html"
+    },
+    {
+        "text": "Bike Gallery",
+        "link": "bikes.html"
+    },
+    {
+        "text": "Author",
+        "link": "author.html"
+    }
+]

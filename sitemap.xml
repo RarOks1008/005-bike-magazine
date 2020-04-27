@@ -1,0 +1,27 @@
+<?xml version="1.0"?>
+<urlset xlmns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<url>
+	<loc>http://bike-magazine.dx.am/index.html</loc>
+	<lastmod>2018-12-06</lastmod>
+	<changefreq>weekly</changefreq>
+	<priority>1</priority>
+</url>
+<url>
+	<loc>http://bike-magazine.dx.am/bikes.html</loc>
+	<lastmod>2018-12-06</lastmod>
+	<changefreq>monthly</changefreq>
+	<priority>0.9</priority>
+</url>
+<url>
+	<loc>http://bike-magazine.dx.am/about.html</loc>
+	<lastmod>2018-12-06</lastmod>
+	<changefreq>monthly</changefreq>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>http://bike-magazine.dx.am/author.html</loc>
+	<lastmod>2018-12-06</lastmod>
+	<changefreq>yearly</changefreq>
+	<priority>0.7</priority>
+</url>
+</urlset>

@@ -1,0 +1,107 @@
+#bikes {
+    width: 96%;
+    margin-left: 2%;
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+}
+#bikes .no_bikes {
+    color: #ffffff;
+    text-shadow: 2px 2px #000000;
+    font-size: 34px;
+    margin-top: 10px;
+    margin-bottom: 20px;
+    text-align: center;
+    background-color: rgba(0, 0, 0, 0.8);
+    padding: 30px;
+    border-radius: 10px;
+}
+#bikes .bike {
+    width: 49%;
+    background-color: rgba(0, 0, 0, 0.3);
+    padding: 10px;
+    margin-top: 10px;
+}
+#bikes .bike h3 {
+    color: #ffffff;
+    margin-left: 25px;
+    margin-bottom: 10px;
+    font-size: 20px;
+}
+#bikes .bike img {
+    width: 80%;
+    margin-left: 10%;
+}
+#bikes .bike h4 {
+    color: #ffffff;
+    margin-left: 15px;
+    margin-top: 10px;
+    font-weight: 200;
+}
+#bikes .bike .bike_description {
+    color: #ffffff;
+    text-align: justify;
+    margin-top: 2px;
+    text-shadow: 2px 2px #000000;
+}
+#bikes .bike .driving_team {
+    color: #ffffff;
+    margin-top: 15px;
+    margin-left: 10px;
+    text-shadow: 2px 2px #000000;
+    font-style: italic;
+}
+#bikes .bike .bike_year {
+    color: #ffffff;
+    margin-left: 10px;
+    text-shadow: 2px 2px #000000;
+}
+#bikes .bike .bike_price {
+    color: #ffffff;
+    margin-left: 10px;
+    text-shadow: 2px 2px #000000;
+    margin-bottom: 5px;
+}
+.bike_selection {
+    font-size: 18px;
+    color: #ffffff;
+    text-shadow: 1px 1px #000000;
+    width: 60%;
+    margin-left: 20%;
+    margin-top: 40px;
+    padding: 5px;
+    border-radius: 5px;
+    background-color: rgba(0, 0, 0, 0.3);
+}
+.bike_selection div input, .bike_selection div select {
+    font-size: 18px;
+}
+.bike_selection div {
+    margin-top: 10px;
+    display: flex;
+    align-items: center;
+}
+.bike_selection div p {
+    font-size: 12px;
+    display: inline-block;
+}
+.bike_selection div select {
+    padding: 5px;
+    border-radius: 3px;
+    border: none;
+}
+.bike_selection div input[type="button"] {
+    width: 20%;
+    background-color: #ffffff;
+    margin-left: 40%;
+    margin-top: 15px;
+}
+@media screen and (max-width: 750px) {
+    #bikes .bike {
+        width: 98%;
+    }
+    .bike_selection {
+        width: 90%;
+        margin-left: 5%;
+    }
+}

@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8"/>
+    <title>Bike Magazine | About</title>
+    <link href="assets/css/style.css" rel="stylesheet" type="text/css" />
+    <link href="assets/css/about.css" rel="stylesheet" type="text/css" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+	<meta name="keywords" content="about, bike, bicycle, magazine"/>
+	<meta name="description" content="This is where you can find everything about us and create a user!"/>
+	<meta name="author" content="Nikola Nedeljkovic"/>
+	<meta name="copyright" content="RarOks 1008 Entertainment @ 2019"/>
+	<meta name="abstract" content="About Bike Magazine."/>
+	<meta name="robots" content="index,follow"/>
+	<link rel="shortcut icon" href="favicon.ico"/>
+  </head>
+  <body>
+      <div class="head_holder">
+          <div class="head">
+              <a href="index.html"><img src="assets/images/logo.png" alt="Logo"/></a>
+              <div id="links"></div>
+          </div>
+          <div class="title_holder"><h1>Welcome to Bike Magazine</h1></div>
+      </div>
+      <h2>About section</h2>
+      <p class="about_text">Bike Magazine showcases the sport of mountain biking, pro biking and amateur biking like no other publication. It captures the sport's personalities, trends, and issues with a style all its own. With insightful features, columns and gear reviews coupled with the best photography, Bike is sure to make you want to get outside and ride.</p>
+      <form class="user_interface">
+          <fieldset>
+              <legend>User Settings</legend>
+              <div>
+                  <label for="user_name">User:&nbsp;&nbsp; </label>
+                  <input type="text" name="user_name" id="user_name" placeholder="UserName..."/>
+                  <p id="user_name_error"></p>
+              </div>
+              <div>
+                  <label for="email">E-mail: </label>
+                  <input type="email" name="email" id="email" placeholder="Email..."/>
+                  <p id="email_error"></p>
+              </div>
+              <div>
+                  <label for="gender">Gender? </label>&nbsp;
+                  <input type="radio" name="gender" id="female" value="female"/> Female&nbsp;&nbsp;
+                  <input type="radio" name="gender" id="male" value="male"/> Male
+                  <p id="gender_error"></p>
+              </div>
+              <div>
+                  <label for="user_type">Which best describes you? </label>
+                  <select id="user_type" name="user_type"></select>
+                  <p id="user_type_error"></p>
+              </div>
+              <div>
+                  <input type="button" id="submit_user_settings" value="Submit"/>
+              </div>
+          </fieldset>
+      </form>
+      <div class="footer">
+          <div class="copyright">
+              <p>&copy; Nikola Nedeljkovic 2019 &nbsp;&nbsp;&nbsp; @ ICT</p>
+          </div>
+          <div class="contact">
+              <div class="info">
+                  <p>Nikola Nedeljkovic</p>
+                  <p>nikola.nedeljkovic.2.17&#64;ict.edu.rs</p>
+                  <p>+381/64-45-71-380</p>
+              </div>
+              <div class="social_media" id="soc_media"></div>
+          </div>
+      </div>
+      <script type="text/javascript" src="assets/js/main.js"></script>
+      <script type="text/javascript" src="assets/js/about.js"></script>
+      <script type="text/javascript" src="assets/js/jquery.min.js"></script>
+  </body>
+</html>

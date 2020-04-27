@@ -1,0 +1,32 @@
+[
+    {
+        "link": "https://www.facebook.com/groups/133217443853219/permalink/144719669369663/",
+        "image": "assets/images/social-networks/facebook.png",
+        "alt": "Facebook Logo"
+    },
+    {
+        "link": "https://connect.unity.com/u/5a22ab4f880c64001e4f69fe",
+        "image": "assets/images/social-networks/unity.png",
+        "alt": "Unity Logo"
+    },
+    {
+        "link": "https://twitter.com/raroks1008en",
+        "image": "assets/images/social-networks/twitter.png",
+        "alt": "Twitter Logo"
+    },
+    {
+        "link": "https://www.linkedin.com/in/raroks-entertainment-698399143/",
+        "image": "assets/images/social-networks/linkedin.png",
+        "alt": "LinkedIn Logo"
+    },
+    {
+        "link": "https://plus.google.com/u/0/112765633989100563682",
+        "image": "assets/images/social-networks/googleplus.png",
+        "alt": "GooglePlus Logo"
+    },
+    {
+        "link": "documentation/documentation.pdf",
+        "image": "assets/images/documentation.png",
+        "alt": "Documentation"
+    }
+]

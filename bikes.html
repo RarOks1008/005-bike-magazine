@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8"/>
+    <title>Bike Magazine | Bike Gallery</title>
+    <link href="assets/css/style.css" rel="stylesheet" type="text/css" />
+    <link href="assets/css/bikes.css" rel="stylesheet" type="text/css" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+	<meta name="keywords" content="gallery, bike, bicycle, magazine"/>
+	<meta name="description" content="Gallery o the most popular bicycles in newer time!"/>
+	<meta name="author" content="Nikola Nedeljkovic"/>
+	<meta name="copyright" content="RarOks 1008 Entertainment @ 2019"/>
+	<meta name="abstract" content="Bike Gallery."/>
+	<meta name="robots" content="index,follow"/>
+	<link rel="shortcut icon" href="favicon.ico"/>
+  </head>
+  <body>
+      <div class="head_holder">
+          <div class="head">
+              <a href="index.html"><img src="assets/images/logo.png" alt="Logo"/></a>
+              <div id="links"></div>
+          </div>
+          <div class="title_holder"><h1>Welcome to Bike Magazine</h1></div>
+      </div>
+      <h2>Bike Gallery</h2>
+      <form class="bike_selection">
+          <div>
+              <label for="sort_by">Sort by: </label>&nbsp;&nbsp;&nbsp;
+              <select id="sort_by" name="sort_by"></select>
+          </div>
+          <div>
+              <label for="show_gender">Show for gender: </label>&nbsp;&nbsp;&nbsp;
+              <select id="show_gender" name="show_gender"></select>
+          </div>
+          <div>
+              <label for="price_range">Price range: </label>&nbsp;&nbsp;&nbsp;
+              <p id="min_price">0&nbsp;&nbsp;</p>
+              <input type="range" id="price_range" name="price_range" min="0" max="500" step="50" value="500"/>
+              <p id="max_price">&nbsp;&nbsp;Max price</p>
+          </div>
+          <div>
+              <input type="checkbox" id="bike_pros" name="bike_pros"/>
+              <label for="bike_pros"> &nbsp;&nbsp;Bikes only ridden by pros?</label>
+          </div>
+          <div>
+              <input type="button" id="submit_bikes" value="Submit"/>
+          </div>
+      </form>
+      <div id="bikes"></div>
+      <div class="footer">
+          <div class="copyright">
+              <p>&copy; Nikola Nedeljkovic 2019 &nbsp;&nbsp;&nbsp; @ ICT</p>
+          </div>
+          <div class="contact">
+              <div class="info">
+                  <p>Nikola Nedeljkovic</p>
+                  <p>nikola.nedeljkovic.2.17&#64;ict.edu.rs</p>
+                  <p>+381/64-45-71-380</p>
+              </div>
+              <div class="social_media" id="soc_media"></div>
+          </div>
+      </div>
+      <script type="text/javascript" src="assets/js/main.js"></script>
+      <script type="text/javascript" src="assets/js/bikes.js"></script>
+      <script type="text/javascript" src="assets/js/jquery.min.js"></script>
+  </body>
+</html>

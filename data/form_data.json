@@ -1,0 +1,46 @@
+{
+    "sort_by": [
+        {
+            "type": "no_sort",
+            "value": "No Sort"
+        },
+        {
+            "type": "name_a-z",
+            "value": "Name A-Z"
+        },
+        {
+            "type": "name_z-a",
+            "value": "Name Z-A"
+        },
+        {
+            "type": "price_low",
+            "value": "Price Lowest to Highest"
+        },
+        {
+            "type": "price_high",
+            "value": "Price Highest to Lowest"
+        },
+        {
+            "type": "year_early",
+            "value": "Year Earliest to Newest"
+        },
+        {
+            "type": "year_newest",
+            "value": "Year Newest to Earliest"
+        }
+    ],
+    "gender": [
+        {
+            "type": "show_all",
+            "value": "Show All"
+        },
+        {
+            "type": "male",
+            "value": "Male"
+        },
+        {
+            "type": "female",
+            "value": "Female"
+        }
+    ]
+}
